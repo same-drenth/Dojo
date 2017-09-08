@@ -1,6 +1,6 @@
 # `width` en `height`
 
-In deze les leer je hoe handig `width` en `height zijn`
+In deze les leer je hoe handig `width` en `height` zijn
 
 ## Intro
 
