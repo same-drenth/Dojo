@@ -19,7 +19,7 @@ void draw()
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :---------------------:|:----------------------------------------: 
 `size(800, 400);`|'Lieve computer, maak een venster van 800 pixels wijd en 400 pixels hoog.'
-`ellipse(60,50,40,30);`|'Lieve computer, teken een ovaal `60` pixels naar rechts, 50 pixels omlaag, die 40 pixels wijd en 30 pixels hoog is.'
+`ellipse(60,50,40,30);`|'Lieve computer, teken een ovaal `60` pixels naar rechts, `50` pixels omlaag, die `40` pixels wijd en `30` pixels hoog is.'
 
 ## Opdracht 1
 
@@ -85,8 +85,8 @@ Deze getallen worden bepaald zodra je size gebruikt om de grootte van je scherm 
 
 Maak een programma wat een ovaal tekent die het scherm opvult:
 
- * Verander de eerste `64` in `width / 2`
- * Verander de tweede `64` in `height / 2`
+ * Verander de eerste `64` in `width / 2`.
+ * Verander de tweede `64` in `height / 2`.
  * Verander de eerste `128` in `width`.
  * Verander de tweede `128` in `height`.
 
