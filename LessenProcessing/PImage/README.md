@@ -9,7 +9,7 @@ In deze les gaan we met plaatjes werken!
 Save deze code. Run deze code. Wat zie je?
    
 ```c++
-PImage plaatje;
+//PImage plaatje
 
 void setup() 
 {
